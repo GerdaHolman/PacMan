@@ -6,7 +6,7 @@
   This game allows you to scale by adding "PacMen" and then "Start Game", which allows PacMan to move dynamically accross the screen. 
   
 # Upcoming features
-  Estheic changes to buttons to imporve color, shape, and size.
+  Esthetic changes to buttons to imporve color, shape, and size.
 
 # Installation
   No installation needed. Download files and they can be loaded directly into browser or code editor. 
