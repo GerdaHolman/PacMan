@@ -1,7 +1,7 @@
 # PacMan.github.io
 
 # About
-  This code consists of 5 files. 1 HTML file with CSS and JS imbeded. 
+  This code consists of 5 files. 1 HTML file with CSS and JS embedded. 
   4 PacMan imgages with mouth opened and closed to move in each direction along the x and y axis.
   This game allows you to scale by adding "PacMen" and then "Start Game", which allows PacMan to move dynamically accross the screen. 
   
